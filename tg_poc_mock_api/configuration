@@ -1,0 +1,17 @@
+{
+  "tg_api_id":309143,
+  "tg_api_hash":"2a34403e254f8f58fef9458b4df00d2d",
+  "tg_user_phone":"+639675286445",
+  "tg_session_path":"sessions/super_2",
+  "mq_host":"la4i.com",
+  "mq_port":5672,
+  "mq_username":"rabbitmq",
+  "mq_password":"wifisky10",
+  "mq_queue_name":"telegram_messages_test",
+  "db_host":"localhost",
+  "db_username":"postgres",
+  "db_password":"Varna052",
+  "db_database":"tg_bot_test",
+  "db_table_msg":"messages",
+  "debug_tg_report_account":"choephix"
+}
