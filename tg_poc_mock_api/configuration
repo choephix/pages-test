@@ -13,7 +13,7 @@
   "db_password":"Eemi8cah",
   "db_database":"xatonax_qa5",
   "db_table_msg":"telegram.messages",
-  "debug_tg_report_account":"choephix"
+  "debug_tg_report_account":"choephix",
   "channels":[
     "https://t.me/BunnyTokenGroup",
     "https://t.me/quixxi",
