@@ -1,6 +1,5 @@
 {
-   "telegram_user": [
-       {
+   "telegram_user":{
            "id": 1,
            "phone": "+639675286445",
             "tg_api_id":309143,
@@ -9,8 +8,7 @@
            "created_at": "2018-08-09 13:01:46",
            "updated_at": "2018-08-09 13:01:46",
            "deleted_at": null
-       }
-   ],
+   },
    "telegram_channels": [
        [
            {
