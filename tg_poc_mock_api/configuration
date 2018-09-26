@@ -92,8 +92,8 @@
       "mq_port":5672,
       "mq_username":"temida",
       "mq_password":"Eemi8cah",
-      "mq_messages_queue":"telegram_messages",
-      "mq_channels_queue":"telegram_channels",
-      "mq_users_queue":"telegram_users"
+      "mq_messages_queue":"bd_telegram_messages",
+      "mq_channels_queue":"bd_telegram_channels",
+      "mq_users_queue":"bd_telegram_users"
    }
 }
