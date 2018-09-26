@@ -82,7 +82,7 @@
       "db_database":"telegram",
       "db_host":"hor.xatonax.com",
       "db_port":9042,
-      "db_username":"cassandra,
+      "db_username":"cassandra",
       "db_password":"Wifisky22",      
       "db_messages_table":"messages_by_channel",
       "db_channels_table":"channels",
