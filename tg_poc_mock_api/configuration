@@ -54,6 +54,36 @@
                "created_at": "2018-08-09 13:03:17",
                "updated_at": "2018-08-09 13:03:17",
                "deleted_at": null
+           },
+           {
+               "id": 3,
+               "url": "https://t.me/brickblock",
+               "tg_channel_id": null,
+               "tg_channel_username": null,
+               "tg_channel_title": null,
+               "members_count": null,
+               "messages_count": null,
+               "telegram_user_id": null,
+               "is_banned": 0,
+               "is_active": false,
+               "created_at": "2018-08-09 13:03:17",
+               "updated_at": "2018-08-09 13:03:17",
+               "deleted_at": null
+           },
+           {
+               "id": 3,
+               "url": "https://t.me/joinchat/IAVqCg-WwKunRhYIqCbb7Q",
+               "tg_channel_id": null,
+               "tg_channel_username": null,
+               "tg_channel_title": null,
+               "members_count": null,
+               "messages_count": null,
+               "telegram_user_id": null,
+               "is_banned": 0,
+               "is_active": false,
+               "created_at": "2018-08-09 13:03:17",
+               "updated_at": "2018-08-09 13:03:17",
+               "deleted_at": null
            }
    ],
    "proxy":{
