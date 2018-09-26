@@ -89,7 +89,7 @@
       "db_users_table":"users", 
 
       "mq_host":"temida.xatonax.com",
-      "mq_port":15672,
+      "mq_port":5672,
       "mq_username":"temida",
       "mq_password":"Eemi8cah",
       "mq_messages_queue":"telegram_messages",
