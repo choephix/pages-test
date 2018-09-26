@@ -70,30 +70,30 @@
    },
    "global_settings": {
 
-      id:1,
-      server:"hathor.xatonax.com",
+      "id":1,
+      "server":"hathor.xatonax.com",
 
-      created_at:"2018-09-26 12:36:46",
-      updated_at:"2018-09-26 14:29:41",
-      deleted_at:null,
-      is_active:false,
+      "created_at":"2018-09-26 12:36:46",
+      "updated_at":"2018-09-26 14:29:41",
+      "deleted_at":null,
+      "is_active":false,
 
 
-      db_database:"telegram",
-      db_host:"hor.xatonax.com",
-      db_port:9042,
-      db_username:"cassandra,
-      db_password:"Wifisky22",   
-      db_messages_table:"messages_by_channel",
-      db_channels_table:"channels",
-      db_users_table:"users"",   
+      "db_database":"telegram",
+      "db_host":"hor.xatonax.com",
+      "db_port":9042,
+      "db_username":"cassandra,
+      "db_password":"Wifisky22",      
+      "db_messages_table":"messages_by_channel",
+      "db_channels_table":"channels",
+      "db_users_table":"users", 
 
-      mq_host:"temida.xatonax.com",
-      mq_port:15672,
-      mq_username:"temida",
-      mq_password:"Eemi8cah",
-      mq_messages_queue:"telegram_messages",
-      mq_channels_queue:"telegram_channels",
-      mq_users_queue:"telegram_users"
+      "mq_host":"temida.xatonax.com",
+      "mq_port":15672,
+      "mq_username":"temida",
+      "mq_password":"Eemi8cah",
+      "mq_messages_queue":"telegram_messages",
+      "mq_channels_queue":"telegram_channels",
+      "mq_users_queue":"telegram_users"
    }
 }
