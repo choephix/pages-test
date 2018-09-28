@@ -1,0 +1,129 @@
+{
+   "telegram_user":{
+           "id": 2,
+           "phone": "+359886791663",
+            "tg_api_id":309143,
+            "tg_api_hash":"2a34403e254f8f58fef9458b4df00d2d",
+           "is_active": false,
+           "created_at": "2018-08-09 13:01:46",
+           "updated_at": "2018-08-09 13:01:46",
+           "deleted_at": null
+   },
+   "telegram_channels": [
+           {
+               "id": 1,
+               "url": "https://t.me/MOLD_EN",
+               "tg_channel_id": null,
+               "tg_channel_username": null,
+               "tg_channel_title": null,
+               "members_count": null,
+               "messages_count": null,
+               "telegram_user_id": null,
+               "is_banned": 0,
+               "is_active": false,
+               "created_at": "2018-08-09 13:02:59",
+               "updated_at": "2018-08-09 13:02:59",
+               "deleted_at": null
+           },
+           {
+               "id": 2,
+               "url": "https://t.me/profede",
+               "tg_channel_id": null,
+               "tg_channel_username": null,
+               "tg_channel_title": null,
+               "members_count": null,
+               "messages_count": null,
+               "telegram_user_id": null,
+               "is_banned": 0,
+               "is_active": false,
+               "created_at": "2018-08-09 13:03:10",
+               "updated_at": "2018-08-09 13:03:10",
+               "deleted_at": null
+           },
+           {
+               "id": 3,
+               "url": "https://t.me/chimichangula",
+               "tg_channel_id": null,
+               "tg_channel_username": null,
+               "tg_channel_title": null,
+               "members_count": null,
+               "messages_count": null,
+               "telegram_user_id": null,
+               "is_banned": 0,
+               "is_active": false,
+               "created_at": "2018-08-09 13:03:17",
+               "updated_at": "2018-08-09 13:03:17",
+               "deleted_at": null
+           },
+           {
+               "id": 3,
+               "url": "https://t.me/brickblock",
+               "tg_channel_id": null,
+               "tg_channel_username": null,
+               "tg_channel_title": null,
+               "members_count": null,
+               "messages_count": null,
+               "telegram_user_id": null,
+               "is_banned": 0,
+               "is_active": false,
+               "created_at": "2018-08-09 13:03:17",
+               "updated_at": "2018-08-09 13:03:17",
+               "deleted_at": null
+           },
+           {
+               "id": 3,
+               "url": "https://t.me/joinchat/IAVqCg-WwKunRhYIqCbb7Q",
+               "tg_channel_id": null,
+               "tg_channel_username": null,
+               "tg_channel_title": null,
+               "members_count": null,
+               "messages_count": null,
+               "telegram_user_id": null,
+               "is_banned": 0,
+               "is_active": false,
+               "created_at": "2018-08-09 13:03:17",
+               "updated_at": "2018-08-09 13:03:17",
+               "deleted_at": null
+           }
+   ],
+   "proxy":{
+           "id": 1,
+           "host": "zproxy.lum-superproxy.io",
+           "port": 22225,
+           "country": "US",
+           "username": "lum-customer-hl_f1dbf58a-zone-us",
+           "password": "52yjsl1xiiij",
+           "is_active": false,
+           "created_at": "2018-08-09 13:05:43",
+           "updated_at": "2018-08-09 13:05:43",
+           "deleted_at": null
+   },
+   "global_settings": {
+
+      "id":1,
+      "server":"hathor.xatonax.com",
+
+      "created_at":"2018-09-26 12:36:46",
+      "updated_at":"2018-09-26 14:29:41",
+      "deleted_at":null,
+      "is_active":false,
+
+
+      "db_database":"telegram",
+      "db_host":"hor.xatonax.com",
+      "db_port":9042,
+      "db_username":"cassandra",
+      "db_password":"Wifisky22",      
+      "db_messages_table":"messages_by_channel",
+      "db_channels_table":"channels",
+      "db_users_table":"users", 
+
+      "mq_host":"temida.xatonax.com",
+      "mq_port":5672,
+      "mq_username":"temida",
+      "mq_password":"Eemi8cah",
+      "mq_messages_queue":"bd_telegram_messages",
+      "mq_channels_queue":"bd_telegram_channels",
+      "mq_users_queue":"bd_telegram_users"
+   }
+}
