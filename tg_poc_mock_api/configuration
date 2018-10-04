@@ -107,6 +107,9 @@
       "updated_at":"2018-09-26 14:29:41",
       "deleted_at":null,
       "is_active":false,
+      
+      "telegram_sleep_interval_from":1,
+      "telegram_sleep_interval_to":5,
 
 
       "db_database":"telegram",
