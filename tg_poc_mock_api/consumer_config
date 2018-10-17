@@ -1,0 +1,27 @@
+{
+  "global_settings":{
+    "id":0,
+    "server":"http:\/\/31.204.155.155",
+    "db_host":"31.204.155.155",
+    "db_port":9042,
+    "db_database":"telegram",
+    "db_username":"cassandra",
+    "db_password":"wifisky10",
+    "db_users_table":"users",
+    "db_channels_table":"channels",
+    "db_messages_table":"messages_by_channel",
+    "mq_host":"185.234.114.57",
+    "mq_port":5672,
+    "mq_username":"temida",
+    "mq_password":"Eemi8cah",
+    "mq_users_queue":    "LOCAL_DEV_bd_telegram_users",
+    "mq_channels_queue": "LOCAL_DEV_bd_telegram_channels",
+    "mq_messages_queue": "LOCAL_DEV_bd_telegram_messages",
+    "is_active":false,
+    "telegram_sleep_interval_from":30,
+    "telegram_sleep_interval_to":90,
+    "created_at":"2018-10-09 09:20:21",
+    "updated_at":"2018-10-15 08:05:23",
+    "deleted_at":null
+  }
+}
